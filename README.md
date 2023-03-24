@@ -12,11 +12,11 @@ veri analizi
 İçerik
 Bu repo, İoT hakkında temel bilgiler, kullanım alanları, avantajları ve dezavantajları hakkında bilgi içermektedir. İçeriğimiz şu şekildedir:
 
-İoT Nedir?
-İoT Nasıl Çalışır?
-İoT Sensörleri ve Akıllı Cihazlar
-İoT Kullanım Alanları
-İoT'nin Avantajları ve Dezavantajları
+İoT Nedir? /
+İoT Nasıl Çalışır? /
+İoT Sensörleri ve Akıllı Cihazlar /
+İoT Kullanım Alanları /
+İoT'nin Avantajları ve Dezavantajları /
 
 
 ***İletişim Bilgileri***
