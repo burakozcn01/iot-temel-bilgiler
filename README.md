@@ -1,9 +1,9 @@
 # iot-temel-bilgiler
 
-İoT (Nesnelerin İnterneti) Nedir ve Nasıl Çalışır?
+***İoT (Nesnelerin İnterneti) Nedir ve Nasıl Çalışır?***
 Bu repo, İoT (Nesnelerin İnterneti) hakkında bilgi edinmek isteyenler için hazırlanmış bir bilgilendirme kaynağıdır. İoT, günümüzün en hızlı büyüyen teknolojilerinden biridir ve birçok sektörde kullanılmaktadır.
 
-Anahtar Kelimeler
+***Anahtar Kelimeler***
 İoT
 Nesnelerin İnterneti
 akıllı cihazlar
@@ -19,5 +19,5 @@ Bu repo, İoT hakkında temel bilgiler, kullanım alanları, avantajları ve dez
 İoT'nin Avantajları ve Dezavantajları
 
 
-İletişim Bilgileri
+***İletişim Bilgileri***
 Eğer bu repo hakkında sorularınız, önerileriniz veya geri bildirimleriniz varsa, lütfen bana Reloading#9660 discord hesabına istek atarak ulaşın.
