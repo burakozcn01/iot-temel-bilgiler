@@ -10,7 +10,7 @@ IoT, birçok sektörde kullanılmaktadır. Örneğin:
 •	Sağlık: IoT cihazları, kişisel sağlık monitörleri, akıllı tıbbi cihazlar ve sağlık hizmetleri sunan cihazlar gibi birçok alanda kullanılmaktadır.
 •	Akıllı Ev: IoT cihazları, evdeki aydınlatma, ısıtma, güvenlik ve diğer sistemlerin otomatik olarak kontrol edilmesini sağlar.
 
-****3.	IoT Bileşenleri***
+***3.	IoT Bileşenleri***
 
 IoT projeleri bir dizi bileşenden oluşur. İşte en temel bileşenler:
 •	Sensörler: Çevresel değişiklikleri ölçmek için kullanılır. Örneğin, sıcaklık, nem, basınç, titreşim vb. gibi faktörleri ölçebilirler.
